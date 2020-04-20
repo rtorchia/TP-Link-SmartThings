@@ -39,9 +39,9 @@ definition (
 	author: "Dave Gutheinz, Anthony Ramirez", 
 	description: "SmartThings TP-Link/Kasa Service Manager.", 
 	category: "Convenience", 
-	iconUrl: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
-	iconX2Url: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
-	iconX3Url: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
+	iconUrl: "https://raw.githubusercontent.com/DaveGut/TP-Link-SmartThings/master/images/kasa.png",
+	iconX2Url: "https://raw.githubusercontent.com/DaveGut/TP-Link-SmartThings/master/images/kasa.png",
+	iconX3Url: "https://raw.githubusercontent.com/DaveGut/TP-Link-SmartThings/master/images/kasa.png",
 	singleInstance: true
 )
 
